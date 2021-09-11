@@ -1,0 +1,92 @@
+[{
+  "_id": {
+    "$oid": "613c42fca9e6ae7d04bd0568"
+  },
+  "id": "1",
+  "nombre": "Green Chilli",
+  "precio": "15",
+  "sku": "1",
+  "temporada": "false",
+  "imagen": "/product_images/green-chilli.jpeg",
+  "cantidad": "100gms",
+  "categoria": "vegetal"
+},{
+  "_id": {
+    "$oid": "613c42fca9e6ae7d04bd0569"
+  },
+  "id": "2",
+  "nombre": "Ash Gourd",
+  "precio": "55",
+  "sku": "2",
+  "temporada": "false",
+  "imagen": "/product_images/ashgourd.jpeg",
+  "cantidad": "1k",
+  "categoria": "vegetal"
+},{
+  "_id": {
+    "$oid": "613c6942a9e6ae7d04bd056c"
+  },
+  "id": "3",
+  "nombre": "Beans",
+  "precio": "37",
+  "sku": "3",
+  "temporada": "false",
+  "imagen": "/product_images/beans.jpeg",
+  "cantidad": "1kg",
+  "categoria": "vegetal"
+},{
+  "_id": {
+    "$oid": "613cf48fa9e6ae7d04bd056e"
+  },
+  "nombre": "Beetroot",
+  "precio": "90",
+  "sku": "4",
+  "temporada": "false",
+  "imagen": "/product_images/Beetroot.jpeg",
+  "cantidad": "1k",
+  "categoria": "vegetal"
+},{
+  "_id": {
+    "$oid": "613cf48fa9e6ae7d04bd056f"
+  },
+  "nombre": "Cabbage",
+  "precio": "42",
+  "sku": "5",
+  "temporada": "false",
+  "imagen": "/product_images/cabbage.jpeg",
+  "cantidad": "1k",
+  "categoria": "vegetal"
+},{
+  "_id": {
+    "$oid": "613cf48fa9e6ae7d04bd0570"
+  },
+  "nombre": "Carrot",
+  "precio": "43",
+  "sku": "6",
+  "temporada": "true",
+  "imagen": "/product_images/carrot.jpeg",
+  "cantidad": "1k",
+  "categoria": "vegetal"
+},{
+  "_id": {
+    "$oid": "613cf4c128f2289c1f9d176b"
+  },
+  "nombre": "Cauliflower",
+  "precio": "38",
+  "sku": "7",
+  "temporada": "false",
+  "imagen": "/product_images/Cauliflower.jpeg",
+  "cantidad": "1k",
+  "categoria": "vegetal"
+},{
+  "_id": {
+    "$oid": "613cf55b28f2289c1f9d176e"
+  },
+  "nombre": "Watermelon",
+  "precio": "50",
+  "sku": "42",
+  "temporada": "true",
+  "imagen": "/product_images/Watermelon.jpeg",
+  "cantidad": "1 piece",
+  "categoria": "fruta"
+}]
